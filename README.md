@@ -42,14 +42,6 @@ This project is an end-to-end Business Analytics solution built using **Python**
 - Average Customer Health Score
 - Revenue at Risk by Customer Segment
 
-## 📷 Dashboard Preview
-
-_Add your dashboard screenshot here._
-
-```markdown
-![Dashboard](dashboard/dashboard_screenshot.png)
-```
-
 ## 📁 Project Structure
 
 ```
